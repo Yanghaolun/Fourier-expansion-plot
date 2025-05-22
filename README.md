@@ -1,5 +1,5 @@
 # Fourier-expansion-plot
 
 ## Expand the Curve in a Complex Plane
-
-$hi$
+Write the curve as $z(t) = x(t) + i y(t)$, and use fourier expansion with basis \{e^{int}\}_{n}. 
+$$
